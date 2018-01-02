@@ -1,0 +1,4 @@
+FROM sansan/apache2
+MAINTAINER sansan "15000876069@163.com"
+ENV APPLICATION_NAME webapp
+ENV ENVIRONMENT developmenta
